@@ -1,0 +1,23 @@
+{
+  "Markdown - Cheatsheet Baseline": {
+    //https://www.markdownguide.org/extended-syntax/#strikethrough
+    "scope": "markdown",
+    "prefix": "baseline",
+    "body": [
+      "${1:header_1}",
+      "===============================================================================",
+      "",
+      "${2:header_2}",
+      "-------------------------------------------------------------------------------",
+      "",
+      "$0",
+      "",
+      "References",
+      "-------------------------------------------------------------------------------",
+      "",
+      "* [MY_EASY_TITLE](https://my_page.com)",
+      ""
+    ],
+    "description": "Baseline snippet for any sheet in Cheatsheets"
+  }
+}

@@ -3,6 +3,8 @@ Cheatsheets
 
 A place for Quick Reference Data that I use with some degree of frequency. This is mostly to have one place and not have to Google for things / re-find things. Probably a constant work in progress with stub headings. Pull requests accepted if sane.
 
+<br/>
+
 IT Sheets
 -------------------------------------------------------------------------------
 
@@ -19,8 +21,6 @@ IT Sheets
 
 * [Style Guides](https://github.com/IronTooch/Cheatsheets/blob/main/sheets/style_guides.md)
 
-### Language Specific
-
 ### Tool Specific
 
 * [JQ Command](https://github.com/IronTooch/Cheatsheets/blob/main/sheets/command_specific/jq.md)
@@ -31,8 +31,14 @@ IT Sheets
 
 ### Fonts
 
+<br/>
+
+*******************************************************************************
+
 Life Stuff
 -------------------------------------------------------------------------------
+
+*******************************************************************************
 
 ### Social
 

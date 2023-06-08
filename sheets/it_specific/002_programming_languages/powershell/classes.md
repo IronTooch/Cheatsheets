@@ -1,0 +1,1 @@
+https://arcanecode.com/2022/02/21/fun-with-powershell-classes-constructors/
